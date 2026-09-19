@@ -356,10 +356,6 @@ struct ContentView: View {
             Divider()
 
             HStack {
-                Button("Autoriser les clés d’accès", systemImage: "key") {
-                    monitor.requestPasskeyAccess()
-                }
-
                 Button("Ouvrir dans le navigateur", systemImage: "safari") {
                     monitor.openInBrowser()
                 }
