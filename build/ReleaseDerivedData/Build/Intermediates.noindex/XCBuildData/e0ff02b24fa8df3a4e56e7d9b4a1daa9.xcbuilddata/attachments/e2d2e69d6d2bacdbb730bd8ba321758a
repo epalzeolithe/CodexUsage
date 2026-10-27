@@ -1,0 +1,16 @@
+{
+  "" : {
+    "const-values" : "/Users/drax/Dev/CodexUsage/build/ReleaseDerivedData/Build/Intermediates.noindex/CodexUsage.build/Release/CodexUsage.build/Objects-normal/arm64/CodexUsage-primary.swiftconstvalues",
+    "dependencies" : "/Users/drax/Dev/CodexUsage/build/ReleaseDerivedData/Build/Intermediates.noindex/CodexUsage.build/Release/CodexUsage.build/Objects-normal/arm64/CodexUsage-primary.d",
+    "diagnostics" : "/Users/drax/Dev/CodexUsage/build/ReleaseDerivedData/Build/Intermediates.noindex/CodexUsage.build/Release/CodexUsage.build/Objects-normal/arm64/CodexUsage-primary.dia",
+    "emit-module-dependencies" : "/Users/drax/Dev/CodexUsage/build/ReleaseDerivedData/Build/Intermediates.noindex/CodexUsage.build/Release/CodexUsage.build/Objects-normal/arm64/CodexUsage-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/drax/Dev/CodexUsage/build/ReleaseDerivedData/Build/Intermediates.noindex/CodexUsage.build/Release/CodexUsage.build/Objects-normal/arm64/CodexUsage-primary-emit-module.dia",
+    "pch" : "/Users/drax/Dev/CodexUsage/build/ReleaseDerivedData/Build/Intermediates.noindex/CodexUsage.build/Release/CodexUsage.build/Objects-normal/arm64/CodexUsage-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/drax/Dev/CodexUsage/build/ReleaseDerivedData/Build/Intermediates.noindex/CodexUsage.build/Release/CodexUsage.build/Objects-normal/arm64/CodexUsage-primary.swiftdeps"
+  },
+  "/Users/drax/Dev/CodexUsage/CodexUsage/ContentView.swift" : {
+    "index-unit-output-path" : "/CodexUsage.build/Release/CodexUsage.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/drax/Dev/CodexUsage/build/ReleaseDerivedData/Build/Intermediates.noindex/CodexUsage.build/Release/CodexUsage.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/drax/Dev/CodexUsage/build/ReleaseDerivedData/Build/Intermediates.noindex/CodexUsage.build/Release/CodexUsage.build/Objects-normal/arm64/ContentView.o"
+  }
+}
